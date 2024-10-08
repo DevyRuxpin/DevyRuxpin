@@ -30,15 +30,7 @@
 ## GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=DevyRuxpin&theme=radical)
 
-## Visitor Badge
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=DevyRuxpin.visitor-badge)
 
-## Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-## Activity Graph
-![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=DevyRuxpin&theme=radical)
 
 ## Dynamic Quotes
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
