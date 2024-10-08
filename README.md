@@ -18,7 +18,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=DevyRuxpin&color=blueviolet)
 
 ## Pinned Repositories
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DevyRuxpin&repo=your-repo-name&theme=radical)](https://github.com/DevyRuxpin/your-repo-name)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DevyRuxpin&repo=your-WorkforceManagement&theme=radical)](https://github.com/DevyRuxpin/WorkforceManagement)
 
 ## Tech Stack
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -31,14 +31,14 @@
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=DevyRuxpin&theme=radical)
 
 ## Visitor Badge
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=DevyRuxpin.visitor-badge)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=DevyRuxpin.visitor-badge)
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
 ## Activity Graph
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=DevyRuxpin&theme=radical)
+![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=DevyRuxpin&theme=radical)
 
 ## Dynamic Quotes
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
