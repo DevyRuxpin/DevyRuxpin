@@ -17,8 +17,6 @@
 ## Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=DevyRuxpin&color=blueviolet)
 
-## Pinned Repositories
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DevyRuxpin&repo=your-WorkforceManagement&theme=radical)](https://github.com/DevyRuxpin/WorkforceManagement)
 
 ## Tech Stack
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
