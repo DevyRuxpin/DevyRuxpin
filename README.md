@@ -34,8 +34,6 @@
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
-[![An image of @devyruxpin's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/devyruxpin)](https://holopin.io/@devyruxpin)
-[![An image of @devyruxpin's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/devyruxpin)](https://holopin.io/@devyruxpin)
 
 
 
