@@ -27,6 +27,7 @@
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=sql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-000000?style=flat-square&logo=sqlalchemy&logoColor=white)
 
 ## GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=DevyRuxpin&theme=radical)
