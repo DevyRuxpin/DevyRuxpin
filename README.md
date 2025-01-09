@@ -28,6 +28,8 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-000000?style=flat-square&logo=sqlalchemy&logoColor=white)
+![Mako](https://img.shields.io/badge/-Mako-000000?style=flat-square&logo=mako&logoColor=white)
+![Shell](https://img.shields.io/badge/-Shell-5391FE?style=flat-square&logo=gnu-bash&logoColor=white)
 
 ## GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=DevyRuxpin&theme=radical)
