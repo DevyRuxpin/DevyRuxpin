@@ -27,7 +27,8 @@ class DevyRuxpin:
 
 
 📊 GitHub Analytics
-<!-- GitHub Stats Card --> <p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevyRuxpin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevyRuxpin&layout=compact&langs_count=8&theme=tokyonight"/> </p> <!-- GitHub Streak Stats --> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevyRuxpin&theme=tokyonight" alt="DevyRuxpin" /> </p>
+<!-- GitHub Stats Card -->
+<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevyRuxpin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevyRuxpin&layout=compact&langs_count=8&theme=tokyonight"/> </p> <!-- GitHub Streak Stats --> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevyRuxpin&theme=tokyonight" alt="DevyRuxpin" /> </p>
 
 
 📈 Activity Graph
@@ -44,25 +45,29 @@ Python       8 hrs 20 mins   ███████░░░░░░░░░░
 HTML/CSS     4 hrs          ████░░░░░░░░░░░░░░░░  16.00%
 <!--END_SECTION:waka-->
 
-<!-- Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DevyRuxpin/DevyRuxpin/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DevyRuxpin/DevyRuxpin/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DevyRuxpin/DevyRuxpin/output/github-contribution-grid-snake.svg">
-</picture>
+
 
 ## GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=DevyRuxpin&theme=radical)
 
 🤝 Connect With Me
 <p align="center"> <a href="https://www.linkedin.com/in/marc-harriman-ba6531302/"> <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/> </a> <a href="mailto:your.email@example.com"> <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/> </a> </p>
+
+
 🎯 Current Goals
 🔭 Completing Springboard Software Engineering Program
 🌱 Mastering Full Stack Development
 👯 Contributing to Open Source Projects
 📚 Learning New Technologies
 
-<!-- Dynamic Quote --> <div align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" /> </div> <!-- Snake Animation --> <div align="center"> <img src="https://github.com/DevyRuxpin/DevyRuxpin/blob/output/github-contribution-grid-snake.svg" /> </div> ```
+<!-- Dynamic Quote --> <div align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" /> </div>
+
+<!-- Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DevyRuxpin/DevyRuxpin/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DevyRuxpin/DevyRuxpin/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DevyRuxpin/DevyRuxpin/output/github-contribution-grid-snake.svg">
+</picture> ```
 
 
 
