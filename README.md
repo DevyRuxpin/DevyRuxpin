@@ -44,6 +44,12 @@ Python       8 hrs 20 mins   ███████░░░░░░░░░░
 HTML/CSS     4 hrs          ████░░░░░░░░░░░░░░░░  16.00%
 <!--END_SECTION:waka-->
 
+<!-- Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DevyRuxpin/DevyRuxpin/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DevyRuxpin/DevyRuxpin/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DevyRuxpin/DevyRuxpin/output/github-contribution-grid-snake.svg">
+</picture>
 
 ## GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=DevyRuxpin&theme=radical)
@@ -55,6 +61,7 @@ HTML/CSS     4 hrs          ████░░░░░░░░░░░░░�
 🌱 Mastering Full Stack Development
 👯 Contributing to Open Source Projects
 📚 Learning New Technologies
+
 <!-- Dynamic Quote --> <div align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" /> </div> <!-- Snake Animation --> <div align="center"> <img src="https://github.com/DevyRuxpin/DevyRuxpin/blob/output/github-contribution-grid-snake.svg" /> </div> ```
 
 
