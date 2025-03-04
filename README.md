@@ -9,12 +9,14 @@
   <img src="https://img.shields.io/github/followers/DevyRuxpin?label=Followers&style=social" alt="followers">
 </p>
 
+
 ## 👨‍💻 About Me
 - 🎓 Name: Marc Harriman
 - 💼 Role: Software Engineer
 - 📚 Education: Springboard Software Engineering Program
 - 🌟 Interests: Web Development, Full Stack, Open Source
 - ⚡ Fun Fact: 10 years of OSINT and social engineering experience
+
 
 ## 🛠️ Tech Stack & Tools
 <p align="center">
@@ -28,23 +30,28 @@
   <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 </p>
 
+
 ## 📊 GitHub Analytics
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevyRuxpin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevyRuxpin&layout=compact&langs_count=8&theme=tokyonight"/>
 </p>
 
+
 ## 📈 Activity Graph
 [![DevyRuxpin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DevyRuxpin&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 ## 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=DevyRuxpin&theme=tokyonight&row=1&column=6"/>
 </p>
 
+
 ## 📊 Weekly Development Breakdown
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
 
 ## 🤝 Connect With Me
 <p align="center">
