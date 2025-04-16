@@ -50,9 +50,11 @@
 </p>
 
 
-## 📊 Weekly Development Breakdown
+## 📊 Development Breakdown
 <figure>
-  <embed src="https://wakatime.com/share/@0585f661-3f4d-4ad2-9669-1c6fff0a8eab/2c32e962-1d26-405f-9c99-b57c92eaf855.svg"></embed>
+  <a href="https://wakatime.com/">
+    <img src="https://wakatime.com/share/@0585f661-3f4d-4ad2-9669-1c6fff0a8eab/642401a5-61c4-4455-a20d-0e9a495443a3.png" alt="Development Breakdown">
+  </a>
 </figure>
 
 
