@@ -51,8 +51,9 @@
 
 
 ## 📊 Weekly Development Breakdown
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<figure>
+  <embed src="https://wakatime.com/share/@0585f661-3f4d-4ad2-9669-1c6fff0a8eab/2c32e962-1d26-405f-9c99-b57c92eaf855.svg"></embed>
+</figure>
 
 
 ## 🤝 Connect With Me
