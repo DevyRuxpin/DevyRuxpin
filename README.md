@@ -86,7 +86,7 @@ Welcome to my GitHub profile! Here you’ll find my configuration files, code sa
 
 ## 🎯 Current Goals
 
-- 🔭 Completing Springboard Software Engineering Program
+- 🔭 Mastering AI Techological Skills 
 - 🌱 Mastering Full Stack Development
 - 👯 Contributing to Open Source Projects
 - 📚 Learning New Technologies
